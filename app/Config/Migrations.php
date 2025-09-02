@@ -18,6 +18,8 @@ class Migrations extends BaseConfig
      */
     public bool $enabled = true;
 
+
+
     /**
      * --------------------------------------------------------------------------
      * Migrations Table
